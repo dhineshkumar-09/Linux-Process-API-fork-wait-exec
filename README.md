@@ -45,12 +45,7 @@ int main() {
 ```
 
 ## OUTPUT
-<img width="923" height="280" alt="image" src="https://github.com/user-attachments/assets/6a5f410d-6725-4779-bf6d-d1edd6c8321f" />
-
-
-
-
-
+![alt text](imgs/forkcheck.png)
 
 
 
@@ -101,8 +96,7 @@ int main() {
 ```
 
 ## OUTPUT
-<img width="935" height="405" alt="image" src="https://github.com/user-attachments/assets/acacafaa-b640-429b-bd29-2226cb17fb0e" />
-
+![alt text](imgs/execcheck.png)
 
 
 # RESULT:
