@@ -86,7 +86,7 @@ int main() {
     if (WIFEXITED(status)) {
         printf("Child exited for execlp with status: %d\n", WEXITSTATUS(status));
     } else {
-        printf("Child did not exit successfully\n");
+        printf("Child did not exit successfully\n"); 
     }
     
     printf("Done.\n");
